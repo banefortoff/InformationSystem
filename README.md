@@ -1,4 +1,4 @@
-# This project is an information system for assessing extracurricular activities of school students.
+# This project is an information system for assessing extracurricular activities of school students
 
 **Functionality:**
 * Database management (reading, adding, editing and deleting records);
